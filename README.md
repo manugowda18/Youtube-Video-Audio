@@ -1,3 +1,7 @@
 _Youtube-Video-Audio-Downloder_
 
-<h6>A number guessing game where the user must guess a number between the upper and lower limit set by the user. The user has 8 chances to guess the number, and the game informs the user if the guess is too high or low. If the user runs out of chances, the number is revealed and the game ends. The program runs once and terminates.</h6>
+<h3>Audio-Downloder:</h3>
+<h6>This is a python code to download an audio only version of a YouTube video using the "pytube" library. The user is asked to input the URL of the desired video, then the function "Download" is called and it uses the YouTube class from pytube to extract the audio-only stream, and downloads it. The function also has an exception handler in case of any errors in the downloading process.</h6>
+
+<h3>Video-Downloder:</h3>
+<h6>This is a python code to download an audio only version of a YouTube video using the "pytube" library. The user is asked to input the URL of the desired video, then the function "Download" is called and it uses the YouTube class from pytube to extract the audio-only stream, and downloads it. The function also has an exception handler in case of any errors in the downloading process.</h6>
